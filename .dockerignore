@@ -1,0 +1,27 @@
+.git
+.gitignore
+README.md
+
+#
+# OS X
+#
+.DS_Store
+
+#
+# Rails
+#
+*.rbc
+capybara-*.html
+log
+tmp
+public/system
+coverage/
+spec/tmp
+**.orig
+.bundle
+.rvmrc
+config/dh-param
+config/secrets-example.yml
+config/database-example.yml
+# if you assets:precompile before build
+app/assets
